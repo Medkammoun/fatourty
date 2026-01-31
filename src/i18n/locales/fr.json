@@ -19,8 +19,8 @@
         "title": "Tout Ce Dont Vous Avez Besoin pour Gérer Votre Entreprise",
         "subtitle": "Solutions complètes conçues pour les entreprises tunisiennes modernes",
         "einvoice": {
-            "title": "Solution E-Facture",
-            "description": "Entièrement conforme aux réglementations tunisiennes sur la facturation électronique. Créez, envoyez et suivez vos factures numériques facilement."
+            "title": "Solution Fatourty E-Facture",
+            "description": "Entièrement conforme aux réglementations tunisiennes sur la facturation électronique. Créez, envoyez et suivez vos factures numériques facilement avec Fatourty."
         },
         "stock": {
             "title": "Gestion de Stock",
@@ -93,9 +93,9 @@
         "button": "Commencer Gratuitement"
     },
     "footer": {
-        "about": "À Propos",
+        "about": "À Propos de Fatourty",
         "privacy": "Politique de Confidentialité",
         "terms": "Conditions d'Utilisation",
-        "copyright": "Tous droits réservés"
+        "copyright": "Tous droits réservés - Fatourty"
     }
 }

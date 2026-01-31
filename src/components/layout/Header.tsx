@@ -33,7 +33,7 @@ export function Header() {
                     {/* Logo */}
                     <div className="flex items-center">
                         <a href="#hero" className="text-xl font-bold text-gradient-primary">
-                            Invoice<span className="text-white">Pro</span>
+                            Fatourty
                         </a>
                     </div>
 

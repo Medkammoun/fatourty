@@ -19,8 +19,8 @@
         "title": "Everything You Need to Manage Your Business",
         "subtitle": "Comprehensive solutions designed for modern Tunisian businesses",
         "einvoice": {
-            "title": "E-Invoice Solution",
-            "description": "Fully compliant with Tunisian e-invoice regulations. Create, send, and track digital invoices seamlessly."
+            "title": "Fatourty E-Invoice",
+            "description": "Fully compliant with Tunisian e-invoice regulations. Create, send, and track digital invoices seamlessly with Fatourty."
         },
         "stock": {
             "title": "Stock Management",
@@ -93,9 +93,9 @@
         "button": "Get Started Free"
     },
     "footer": {
-        "about": "About Us",
+        "about": "About Fatourty",
         "privacy": "Privacy Policy",
         "terms": "Terms of Service",
-        "copyright": "All rights reserved"
+        "copyright": "All rights reserved - Fatourty"
     }
 }
