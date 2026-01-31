@@ -1,0 +1,101 @@
+{
+    "nav": {
+        "home": "Accueil",
+        "features": "Fonctionnalités",
+        "einvoice": "E-Facture",
+        "stock": "Stock",
+        "suppliers": "Fournisseurs",
+        "clients": "Clients",
+        "products": "Produits",
+        "contact": "Contact"
+    },
+    "hero": {
+        "title": "Transformez Votre Entreprise avec une Gestion Intelligente des Factures",
+        "subtitle": "Solution E-Facture complète pour les entreprises tunisiennes avec gestion intégrée du stock, fournisseurs, clients et produits",
+        "cta_demo": "Demander une Démo",
+        "cta_learn": "En Savoir Plus"
+    },
+    "features": {
+        "title": "Tout Ce Dont Vous Avez Besoin pour Gérer Votre Entreprise",
+        "subtitle": "Solutions complètes conçues pour les entreprises tunisiennes modernes",
+        "einvoice": {
+            "title": "Solution E-Facture",
+            "description": "Entièrement conforme aux réglementations tunisiennes sur la facturation électronique. Créez, envoyez et suivez vos factures numériques facilement."
+        },
+        "stock": {
+            "title": "Gestion de Stock",
+            "description": "Suivi d'inventaire en temps réel, alertes automatisées et rapports de stock complets."
+        },
+        "supplier": {
+            "title": "Gestion des Fournisseurs",
+            "description": "Gérez les relations fournisseurs, suivez les commandes et analysez les performances."
+        },
+        "client": {
+            "title": "Gestion des Clients",
+            "description": "Maintenez une base de données clients, l'historique des interactions et la segmentation pour un meilleur service."
+        },
+        "product": {
+            "title": "Gestion des Produits",
+            "description": "Organisez votre catalogue de produits avec tarification, variantes et support multi-canal."
+        }
+    },
+    "einvoice_section": {
+        "title": "Conformité E-Facture Simplifiée",
+        "subtitle": "Restez conforme aux réglementations tunisiennes tout en rationalisant votre processus de facturation",
+        "benefit1": "Conformité automatique",
+        "benefit2": "Signature numérique",
+        "benefit3": "Validation en temps réel",
+        "benefit4": "Archivage sécurisé"
+    },
+    "stock_section": {
+        "title": "Contrôle de Stock en Temps Réel",
+        "subtitle": "Ne manquez plus jamais de stock ou n'en ayez plus trop",
+        "feature1": "Suivi d'inventaire en temps réel",
+        "feature2": "Alertes automatiques de stock faible",
+        "feature3": "Support multi-entrepôts",
+        "feature4": "Rapports de stock complets"
+    },
+    "supplier_section": {
+        "title": "Optimisez les Relations Fournisseurs",
+        "subtitle": "Rationalisez l'approvisionnement et la gestion des vendeurs",
+        "feature1": "Base de données fournisseurs",
+        "feature2": "Suivi des commandes",
+        "feature3": "Analyses de performance",
+        "feature4": "Outils de communication"
+    },
+    "client_section": {
+        "title": "Connaissez Mieux Vos Clients",
+        "subtitle": "Construisez des relations plus solides avec des données clients complètes",
+        "feature1": "Profils clients",
+        "feature2": "Historique des interactions",
+        "feature3": "Segmentation",
+        "feature4": "Intégration CRM"
+    },
+    "product_section": {
+        "title": "Maîtrisez Votre Catalogue de Produits",
+        "subtitle": "Organisez et gérez les produits facilement",
+        "feature1": "Catalogue de produits",
+        "feature2": "Gestion des prix",
+        "feature3": "Gestion des variantes",
+        "feature4": "Synchronisation multi-canal"
+    },
+    "benefits": {
+        "title": "Pourquoi Choisir Notre Solution?",
+        "subtitle": "Rejoignez des centaines d'entreprises tunisiennes déjà transformées",
+        "save_time": "Économisez 10+ heures par semaine",
+        "reduce_cost": "Réduisez les coûts de 30%",
+        "compliance": "100% Conforme",
+        "support": "Support 24/7"
+    },
+    "cta": {
+        "title": "Prêt à Transformer Votre Entreprise?",
+        "subtitle": "Commencez votre essai gratuit aujourd'hui et voyez la différence",
+        "button": "Commencer Gratuitement"
+    },
+    "footer": {
+        "about": "À Propos",
+        "privacy": "Politique de Confidentialité",
+        "terms": "Conditions d'Utilisation",
+        "copyright": "Tous droits réservés"
+    }
+}

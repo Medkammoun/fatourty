@@ -1,0 +1,101 @@
+{
+    "nav": {
+        "home": "Home",
+        "features": "Features",
+        "einvoice": "E-Invoice",
+        "stock": "Stock",
+        "suppliers": "Suppliers",
+        "clients": "Clients",
+        "products": "Products",
+        "contact": "Contact"
+    },
+    "hero": {
+        "title": "Transform Your Business with Smart Invoice Management",
+        "subtitle": "Complete E-Invoice solution for Tunisian businesses with integrated stock, supplier, client, and product management",
+        "cta_demo": "Request Demo",
+        "cta_learn": "Learn More"
+    },
+    "features": {
+        "title": "Everything You Need to Manage Your Business",
+        "subtitle": "Comprehensive solutions designed for modern Tunisian businesses",
+        "einvoice": {
+            "title": "E-Invoice Solution",
+            "description": "Fully compliant with Tunisian e-invoice regulations. Create, send, and track digital invoices seamlessly."
+        },
+        "stock": {
+            "title": "Stock Management",
+            "description": "Real-time inventory tracking, automated alerts, and comprehensive stock reports."
+        },
+        "supplier": {
+            "title": "Supplier Management",
+            "description": "Manage supplier relationships, track orders, and analyze performance metrics."
+        },
+        "client": {
+            "title": "Client Management",
+            "description": "Maintain customer database, interaction history, and segmentation for better service."
+        },
+        "product": {
+            "title": "Product Management",
+            "description": "Organize your product catalog with pricing, variants, and multi-channel support."
+        }
+    },
+    "einvoice_section": {
+        "title": "E-Invoice Compliance Made Easy",
+        "subtitle": "Stay compliant with Tunisian regulations while streamlining your invoicing process",
+        "benefit1": "Automatic compliance",
+        "benefit2": "Digital signature",
+        "benefit3": "Real-time validation",
+        "benefit4": "Secure archiving"
+    },
+    "stock_section": {
+        "title": "Real-Time Stock Control",
+        "subtitle": "Never run out of stock or overstock again",
+        "feature1": "Real-time inventory tracking",
+        "feature2": "Automated low stock alerts",
+        "feature3": "Multi-warehouse support",
+        "feature4": "Comprehensive stock reports"
+    },
+    "supplier_section": {
+        "title": "Optimize Supplier Relationships",
+        "subtitle": "Streamline procurement and vendor management",
+        "feature1": "Supplier database",
+        "feature2": "Order tracking",
+        "feature3": "Performance analytics",
+        "feature4": "Communication tools"
+    },
+    "client_section": {
+        "title": "Know Your Customers Better",
+        "subtitle": "Build stronger relationships with comprehensive client data",
+        "feature1": "Customer profiles",
+        "feature2": "Interaction history",
+        "feature3": "Segmentation",
+        "feature4": "CRM integration"
+    },
+    "product_section": {
+        "title": "Master Your Product Catalog",
+        "subtitle": "Organize and manage products with ease",
+        "feature1": "Product catalog",
+        "feature2": "Pricing management",
+        "feature3": "Variant handling",
+        "feature4": "Multi-channel sync"
+    },
+    "benefits": {
+        "title": "Why Choose Our Solution?",
+        "subtitle": "Join hundreds of Tunisian businesses already transformed",
+        "save_time": "Save 10+ hours weekly",
+        "reduce_cost": "Reduce costs by 30%",
+        "compliance": "100% Compliant",
+        "support": "24/7 Support"
+    },
+    "cta": {
+        "title": "Ready to Transform Your Business?",
+        "subtitle": "Start your free trial today and see the difference",
+        "button": "Get Started Free"
+    },
+    "footer": {
+        "about": "About Us",
+        "privacy": "Privacy Policy",
+        "terms": "Terms of Service",
+        "copyright": "All rights reserved"
+    }
+}
